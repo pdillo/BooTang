@@ -2,12 +2,12 @@
 ![preview](/img/screen.png)
 
 ## About
-Booting is temporary. Boot-Tang is forever.
+Booting is temporary. BooTang is forever.
 
 ## Install
 ```bash
-git clone https://github.com/pdillo/boot-tang.git
-cd boot-tang
+git clone https://github.com/pdillo/BooTang.git
+cd BooTang
 sudo cp wugrub -r /usr/share/grub/themes/
 sudo vim /etc/default/grub
 ```
