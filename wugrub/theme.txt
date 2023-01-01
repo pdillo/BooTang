@@ -27,7 +27,7 @@ terminal-border: "0"
   width = 480
   color = "white"
   align = "center"
-  text = "Booting is temporary. Wu-Tang is forever."
+  text = "Booting is temporary. Boot-Tang is forever."
   font = "Unifont Bold 26"
 }
 
