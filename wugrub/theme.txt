@@ -1,4 +1,4 @@
-# GRUB2 gfxmenu pop theme, based on Linux Vimix theme
+# GRUB2 Boot-Tang theme, based on a bad joke, taken too far
 # Designed for any resolution
 
 # Global Property
