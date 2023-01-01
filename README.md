@@ -6,8 +6,8 @@ Booting is temporary. Boot-Tang is forever.
 
 ## Install
 ```bash
-git clone https://github.com/pdillo/wu-grub.git
-cd wu-grub
+git clone https://github.com/pdillo/boot-tang.git
+cd boot-tang
 sudo cp wugrub -r /usr/share/grub/themes/
 sudo vim /etc/default/grub
 ```
