@@ -2,7 +2,7 @@
 ![preview](/img/screen.png)
 
 ## About
-Booting is temporary. Wu-Tang is forever.
+Booting is temporary. Boot-Tang is forever.
 
 ## Install
 ```bash
