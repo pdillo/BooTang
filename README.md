@@ -2,7 +2,7 @@
 ![preview](/img/screen.png)
 
 ## About
-Booting is temporary. BooTang is forever.
+Booting is temporary. Bu-Tang is forever.
 
 ## Install
 ```bash
