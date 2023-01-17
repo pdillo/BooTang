@@ -6,8 +6,8 @@ Booting is temporary. Bu-Tang is forever.
 
 ## Install
 ```bash
-git clone https://github.com/pdillo/BooTang.git
-cd BooTang
+git clone https://github.com/pdillo/Bu-Tang.git
+cd Bu-Tang
 sudo cp wugrub -r /usr/share/grub/themes/
 sudo vim /etc/default/grub
 ```
